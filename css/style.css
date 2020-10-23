@@ -1,0 +1,14 @@
+
+::placeholder{
+    color:rgb(225, 225, 225);
+    font-size: 10px;
+}
+
+.bg_img{
+    background-image: url("../img/photo.jpg");
+}
+
+.navbar-brand:hover{
+    color:yellow;
+    text-decoration: none;
+}
